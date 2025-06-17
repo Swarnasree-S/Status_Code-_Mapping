@@ -1,0 +1,32 @@
+{
+    "fields": [
+        {
+            "field_name": "9C956E78E3F2_Inverter01_Main_Status_Word",
+            "datatype": "bf16",
+            "binary_splitup": {
+                "0": "Standby status",
+                "1": "Self-test status",
+                "2": "Start on-grid",
+                "3": "On-grid operation",
+                "4": "Running Alarm",
+                "5": "Power-limited operation",
+                "6": "Dispatch operation",
+                "7": "Fault shutdown",
+                "8": "Command shutdown",
+                "9": "",
+                "10": "",
+                "11": "",
+                "12": "",
+                "13": "",
+                "14": "",
+                "15": ""
+            }
+        }
+    ]
+}
+
+
+
+
+
+
